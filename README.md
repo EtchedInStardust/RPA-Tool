@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 bash
 
-python rpa\_tool.py
+python RPA_Tool_V2.0.0.py
 
 纯文本
 
